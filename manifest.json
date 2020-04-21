@@ -1,0 +1,118 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "Off The Line",
+    "scope": "/off-the-line-pwa/",
+    "display": "standalone",
+    "start_url": "https://smintgaming.github.io/off-the-line-pwa/",
+    "short_name": "Off The Line",
+    "theme_color": "transparent",
+    "description": "A Game Made For The JS12K Competition Turned Progressive Web App",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/off-the-line-pwa/favicon.ico",
+            "sizes": "16x16 24x24 32x32 48x48 130x130"
+        },
+        {
+            "src": "/images/f7fcba93-e33b-f4a1-d72b-2e9ba4c238a3.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c0ce9df7-ca87-71d6-09d5-20ef1377cb56.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8a28ac58-c4b3-97c3-398c-1b7780238347.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c2ba7b7b-1b7d-1d4b-2163-c545ba368839.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/34ecd60a-6ed5-c1f7-cd8b-b252ce0b504c.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9dfac8dc-20af-5b60-96a9-cd2b5bf2eb61.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d99eb0f2-42b5-ea64-adb1-fae6be7acc1c.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7d351a6d-d9a9-cd7c-b37c-85d9a65e74f6.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9583960b-6dc7-db42-a4ad-37ebee8549a6.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d566011e-cd00-4c36-ef5e-60fa40979eea.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a4aa85bd-6877-53a7-bdcb-7f869c0c14e4.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c419dc20-7697-2849-9c3d-4489003ba369.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f983463e-1a2e-35a2-7c79-5aabc8025e62.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ff090aa0-87d1-6469-cded-feeb39f916de.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c17c6673-8c55-a95c-f520-23596d4afe60.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d3c70fc9-a41d-cb22-d66e-32eba01d4c84.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/89f7df9b-2c4d-99ea-2962-516c98ad1cb5.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/36b89759-1b89-657f-c414-88414c6d3835.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6d23aa2b-b5a6-47bf-f7d3-b796c8b3301d.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://smintgaming.github.io/off-the-line-pwa/",
+    "screenshots": []
+}
