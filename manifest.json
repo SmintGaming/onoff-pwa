@@ -9,7 +9,7 @@
     "theme_color": "black",
     "description": "A Game Made For The JS12K Competition Turned Progressive Web App",
     "orientation": "landscape",
-    "background_color": "transparent",
+    "background_color": "black",
     "related_applications": [],
     "prefer_related_applications": false,
     "icons": [
