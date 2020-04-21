@@ -6,7 +6,7 @@
     "display": "standalone",
     "start_url": "https://smintgaming.github.io/off-the-line-pwa/",
     "short_name": "Off The Line",
-    "theme_color": "transparent",
+    "theme_color": "black",
     "description": "A Game Made For The JS12K Competition Turned Progressive Web App",
     "orientation": "any",
     "background_color": "transparent",
