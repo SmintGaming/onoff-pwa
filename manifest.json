@@ -67,11 +67,11 @@
             "sizes": "192x192",
             "type": "image/png"
         },
-        {
-            "src": "./images/a4aa85bd-6877-53a7-bdcb-7f869c0c14e4.webPlatform.png",
-            "sizes": "144x144",
-            "type": "image/png"
-        },
+        //{
+          //  "src": "./images/a4aa85bd-6877-53a7-bdcb-7f869c0c14e4.webPlatform.png",
+          //  "sizes": "144x144",
+          //  "type": "image/png"
+        // },
         {
             "src": "./images/c419dc20-7697-2849-9c3d-4489003ba369.webPlatform.png",
             "sizes": "96x96",
