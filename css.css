@@ -1,4 +1,4 @@
-html, body, div {
+html, body, div, canvas {
     /* Height and width fallback for older browsers. */
     height: 100%;
     width: 100%;
