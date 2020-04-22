@@ -36,13 +36,7 @@
             "src": "./images/c2ba7b7b-1b7d-1d4b-2163-c545ba368839.webPlatform.png",
             "sizes": "300x300",
             "type": "image/png"
-        },
-        {
-            "src": "./images/34ecd60a-6ed5-c1f7-cd8b-b252ce0b504c.webPlatform.png",
-            "sizes": "150x150",
-            "type": "image/png"
-        },
-        {
+        },{
             "src": "./images/9dfac8dc-20af-5b60-96a9-cd2b5bf2eb61.webPlatform.png",
             "sizes": "88x88",
             "type": "image/png"
