@@ -1,25 +1,22 @@
 {
-  "start_url": "https://smintf.github.io/off-the-line//index.html",
-  "scope": "/off-the-line/",
+  "background_color": "#64ff00",
+  "description": "Action! Danger! Coins! What more could you want from a game?! Jump off the line and try not to die or throw your keyboard across the room in this twitchy arcade tapper. Can you beat all 20 hand-crafted levels? It's harder than it sounds! Good luck and watch out for those walls!",
   "dir": "ltr",
   "lang": "en",
-  "name": "Off the Line",
   "display": "standalone",
-  "short_name": "Blackout",
-  "theme_color": "black",
-  "description": "Action! Danger! Coins! What more could you want from a game?! Jump off the line and try not to die or throw your keyboard across the room in this twitchy arcade tapper. Can you beat all 20 hand-crafted levels? It's harder than it sounds! Good luck and watch out for those walls!",
-  "orientation": "landscape",
-  "background_color": "white",
-  "icons": [
-    {
-      "src": "icon.png",
-      "sizes": "500x500",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-  ],
+  "name": "Off The Line",
+  "orientation": "any",
+  "scope": "/off-the-line/",
+  "short_name": "Off The Line",
   "url": "https://smintf.github.io/off-the-line/",
   "related_applications": [],
   "prefer_related_applications": false
-  "screenshots": []
+  "screenshots": [],
+  "start_url": "https://smintf.github.io/off-the-line/index.html",
+  "theme_color": "black",
+  "icons": [
+    {
+      "src": "icon.png"
+    }
+  ]
 }
